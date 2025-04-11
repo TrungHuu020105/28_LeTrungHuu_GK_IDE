@@ -105,4 +105,3 @@ networks:
   app-network:
     driver: bridge
 
-# chạy 1 lần docker-compose up airflow-init
